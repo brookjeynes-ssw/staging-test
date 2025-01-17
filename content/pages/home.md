@@ -12,6 +12,9 @@ blocks:
       here in the preview, like you did before).
 
 
+      staging test
+
+
       **Clicking 'Save' won't do anything in this demo** - but on your site it
       will save the changes immediately or send an approval request to your team
       for review.
